@@ -1,0 +1,5 @@
+__pycahe__/
+.env/
+/frontend/.env
+.vscode/
+node_modules/
